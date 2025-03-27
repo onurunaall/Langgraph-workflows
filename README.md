@@ -1,5 +1,3 @@
-# Langgraph-workflows
-
 # LangGraph Workflows & Agents
 
 This project demonstrates common patterns for agentic systems using LangGraph. It includes examples of:
